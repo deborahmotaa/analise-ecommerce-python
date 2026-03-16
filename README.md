@@ -1,6 +1,6 @@
 # Análise de Dados - E-commerce Brasileiro (Olist)
 
-Este projeto utiliza **Python** e as bibliotecas **Pandas, Seaborn e Matplotlib** para extrair insights de uma base de dados real de e-commerce.
+Este projetinho utiliza **Python** e as bibliotecas **Pandas, Seaborn e Matplotlib** para extrair insights de uma base de dados real de e-commerce.
 
 ## 📊 O que foi analisado:
 - Evolução do faturamento mensal.
